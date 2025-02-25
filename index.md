@@ -5,3 +5,6 @@
 javascript
 var myVar = "¡Hola, mundo!";
 ```
+- [ ] Test No. 1
+- [ ] Test No. 2
+- [ ] Test No. 3
